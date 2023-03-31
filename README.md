@@ -1,4 +1,7 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Hardik 👋
+
+![Alt Text](github.gif)
+
 
 ## 👨‍💻 About Me
 
