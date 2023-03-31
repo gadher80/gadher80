@@ -1,3 +1,5 @@
+
+
 # Hi there, I'm Hardik 👋
 
 <div style="display: flex; justify-content: center;">
@@ -21,30 +23,48 @@ I love to learn new technologies and create projects that solve real-world probl
   
 </p>
 
-## 🌱 Currently Learning
+## 🌱 Continuing Education
 
-I'm always looking to expand my knowledge and stay up-to-date with the latest technologies. Here are some of the things I'm currently learning:
+My passion for learning drives me to constantly seek new knowledge and stay up-to-date with the latest technologies. Currently, I'm focusing on expanding my expertise in the following areas:
 
-- Power BI
-- Database Management System - MYSQL
-- Data Analystics
-- Machine Learning
+<details>
+<summary><b>Power BI</b></summary>
+<p>I'm exploring the capabilities of Power BI to create interactive visualizations and reports that can help drive data-informed decisions.</p>
+</details>
 
-## 👯 I’m looking to collaborate on
+<details>
+<summary><b>Database Management System (DBMS) - MySQL</b></summary>
+<p>I'm learning the ins and outs of managing and organizing data using MySQL, including creating and modifying databases, tables, and queries.</p>
+</details>
 
-- Open source projects
+<details>
+<summary><b>Data Analytics</b></summary>
+<p>I'm honing my skills in analyzing data and uncovering insights to help drive business decisions.</p>
+</details>
+
+<details>
+<summary><b>Machine Learning</b></summary>
+<p>I'm diving deeper into machine learning algorithms and techniques to help build predictive models and automate processes.</p>
+</details>
+
+I believe that continuing education is crucial in this rapidly-evolving industry, and I'm committed to staying on top of emerging trends and technologies.
+
+
+## 👯 I am actively looking for full-time opportunities as a Data Analyst
+
+As a data analyst, I'm actively looking for full-time opportunities to apply my analytical skills and contribute to meaningful projects. I'm passionate about using data-driven insights to solve real-world problems and thrive in collaborative environments. Let's connect and explore how we can work together.
 
 ## 💬 Let's get in touch
 
-<!-- LinkedIn icon -->
-<a href="https://www.linkedin.com/in/your-profile-url" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn Profile">
-</a>
-
-<!-- Email icon -->
-<a href="mailto:gadher80@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Send Email">
-</a>
+<!-- LinkedIn and Email icons -->
+<p>
+  <a href="https://www.linkedin.com/in/your-profile-url" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn Profile">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:gadher80@gmail.com">
+      <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Send Email">
+  </a>
+</p>
 
 
 ## Github Statstics
