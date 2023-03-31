@@ -58,7 +58,7 @@ As a data analyst, I'm actively looking for full-time opportunities to apply my 
 
 <!-- LinkedIn and Email icons -->
 <p>
-  <a href="https://www.linkedin.com/in/your-profile-url" target="_blank">
+  <a href="https://www.linkedin.com/in/hardik-gadher-7604b1a1/" target="_blank">
       <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn Profile">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:gadher80@gmail.com">
