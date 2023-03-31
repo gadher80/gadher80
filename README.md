@@ -1,16 +1,39 @@
-### Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**gadher80/gadher80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+I'm a passionate and self-taught software developer. I love to learn new technologies and create projects that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+Here are some of the technologies I've worked with:
+
+<p float="left">
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="PowerBI" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://img.icons8.com/color/48/000000/seaborn.png" alt="Seaborn" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Scikit learn" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
+</p>
+
+## 🌱 Currently Learning
+
+I'm always looking to expand my knowledge and stay up-to-date with the latest technologies. Here are some of the things I'm currently learning:
+
+- Artificial Intelligence
+- Machine Learning
+
+## 👯 I’m looking to collaborate on
+
+- Open source projects
+
+## 💬 Let's get in touch
+
+- LinkedIn: [Your LinkedIn URL]
+- Email: [Your Email]
+
+## Github Statstics
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=gadher80&show_icons=true&theme=dark&hide=prs,contribs)
+
