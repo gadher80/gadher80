@@ -1,11 +1,15 @@
 # Hi there, I'm Hardik 👋
 
-![Alt Text](githubicon.gif)
+<div style="display: flex; justify-content: center;">
+    <img src="githubicon.gif" alt="GitHub Icon">
+</div>
 
 
 ## 👨‍💻 About Me
 
-I'm a passionate and self-taught software developer. I love to learn new technologies and create projects that solve real-world problems.
+I'm a passionate and self-taught software developer. 
+
+I love to learn new technologies and create projects that solve real-world problems.
 
 ## 🛠️ Tech Stacks
 
@@ -21,7 +25,9 @@ I'm a passionate and self-taught software developer. I love to learn new technol
 
 I'm always looking to expand my knowledge and stay up-to-date with the latest technologies. Here are some of the things I'm currently learning:
 
-- Artificial Intelligence
+- Power BI
+- Database Management System - MYSQL
+- Data Analystics
 - Machine Learning
 
 ## 👯 I’m looking to collaborate on
