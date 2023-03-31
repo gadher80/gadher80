@@ -1,23 +1,20 @@
 # Hi there, I'm Hardik 👋
 
-![Alt Text](github.gif)
+![Alt Text](githubicon.gif)
 
 
 ## 👨‍💻 About Me
 
 I'm a passionate and self-taught software developer. I love to learn new technologies and create projects that solve real-world problems.
 
-## 🛠️ Tech Stack
-
-Here are some of the technologies I've worked with:
+## 🛠️ Tech Stacks
 
 <p float="left">
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="PowerBI" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://img.icons8.com/color/48/000000/seaborn.png" alt="Seaborn" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Scikit learn" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" height="60" style="vertical-align:top; margin:4px">
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="PowerBI" height="60" style="vertical-align:top; margin:4px">
+  <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" height="60" style="vertical-align:top; margin:4px">
+  <img src="https://img.icons8.com/color/48/null/mysql-logo.png" alt="MySQL" height="60" style="vertical-align:top; margin:4px">
+  
 </p>
 
 ## 🌱 Currently Learning
@@ -33,8 +30,16 @@ I'm always looking to expand my knowledge and stay up-to-date with the latest te
 
 ## 💬 Let's get in touch
 
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your Email]
+<!-- LinkedIn icon -->
+<a href="https://www.linkedin.com/in/your-profile-url" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn Profile">
+</a>
+
+<!-- Email icon -->
+<a href="mailto:gadher80@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Send Email">
+</a>
+
 
 ## Github Statstics
 
