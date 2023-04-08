@@ -3,7 +3,7 @@
 # Hi there, I'm Hardik 👋
 
 <div style="display: flex; justify-content: center;">
-    <img src="githubicon.gif" alt="GitHub Icon">
+    <img src="ezgif.com-video-to-gif.gif" alt="GitHub Icon">
 </div>
 
 
