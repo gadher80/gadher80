@@ -49,7 +49,15 @@ My passion for learning drives me to constantly seek new knowledge and stay up-t
 
 I believe that continuing education is crucial in this rapidly-evolving industry, and I'm committed to staying on top of emerging trends and technologies.
 
+## 💻 Services
+Here are some of the services I offer:
 
+<p> 📊 Data Analysis: 
+ I can help you analyze your data to uncover insights and patterns that can drive your business decisions. </p>
+<p>🧠 Machine Learning: I can build predictive models using various machine learning techniques to help you automate processes and make more informed decisions.</p>
+<p>🖥️ Software Development: I can develop custom software solutions tailored to your specific business needs.</p>
+
+ 
 ## 👯 I am actively looking for full-time opportunities as a Data Analyst
 
 As a data analyst, I'm actively looking for full-time opportunities to apply my analytical skills and contribute to meaningful projects. I'm passionate about using data-driven insights to solve real-world problems and thrive in collaborative environments. Let's connect and explore how we can work together.
