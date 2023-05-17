@@ -17,7 +17,6 @@ I love to learn new technologies and create projects that solve real-world probl
 
 <p float="left">
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" height="60" style="vertical-align:top; margin:4px">
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="PowerBI" height="60" style="vertical-align:top; margin:4px">
   <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" height="60" style="vertical-align:top; margin:4px">
   <img src="https://img.icons8.com/color/48/null/mysql-logo.png" alt="MySQL" height="60" style="vertical-align:top; margin:4px">
   
@@ -27,10 +26,6 @@ I love to learn new technologies and create projects that solve real-world probl
 
 My passion for learning drives me to constantly seek new knowledge and stay up-to-date with the latest technologies. Currently, I'm focusing on expanding my expertise in the following areas:
 
-<details>
-<summary><b>Power BI</b></summary>
-<p>I'm exploring the capabilities of Power BI to create interactive visualizations and reports that can help drive data-informed decisions.</p>
-</details>
 
 <details>
 <summary><b>Database Management System (DBMS) - MySQL</b></summary>
